@@ -1,6 +1,6 @@
 
 
-Welcome to GitHub
+Welcome to My Kitchen
 
 
 
@@ -8,6 +8,9 @@ Welcome to GitHub
 Kheer
 Pasta
 Chicken
+
+Beans
+Pizza
 
 
 Thank you !
